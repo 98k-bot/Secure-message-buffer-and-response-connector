@@ -28,12 +28,12 @@ signal; end reply;
 end MessageBuffer&Response;
 end receive;
 
-![image](https://github.com/98k-bot/Secure-message-buffer-and-response-connector/blob/branch1/MBRC_Structure.png)
+![image](https://github.com/98k-bot/Secure-message-buffer-and-response-connector/blob/master/MBRC_Structure.png)
 
 **For the security consideration, each message from a sender object to a receiver object requires confidentiality security, whereas each response from the receiver object to the sender object requires integrity security.**
 
 The results of running this program with Apache NetBeans 11.3.
-![image](https://github.com/98k-bot/Secure-message-buffer-and-response-connector/blob/branch1/snapshot1.png)
-![image](https://github.com/98k-bot/Secure-message-buffer-and-response-connector/blob/branch1/snapshot2.png)
-![image](https://github.com/98k-bot/Secure-message-buffer-and-response-connector/blob/branch1/snapshot3.png)
+![image](https://github.com/98k-bot/Secure-message-buffer-and-response-connector/blob/master/snapshot1.png)
+![image](https://github.com/98k-bot/Secure-message-buffer-and-response-connector/blob/master/snapshot2.png)
+![image](https://github.com/98k-bot/Secure-message-buffer-and-response-connector/blob/master/snapshot3.png)
 
